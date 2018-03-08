@@ -1,14 +1,11 @@
 # 基于vue和Element的后台管理系统
 > 升级为vue@2.16 + Element@1.0.9
 
-* [在线DEMO](http://dahouge.oschina.io/houtai/dist/#/activePublic)
-* [详细教程](http://www.jianshu.com/p/d87d7140944e)
 ## Build Setup
 
 ``` bash
 # 克隆项目 
- git clone https://github.com/WebCodeFarmer/houtai.git
-
+ git@github.com:1weidong/houtai-master.git
 # 查看目录
 ls
 
@@ -24,4 +21,3 @@ npm run dev
 # 打包压缩
 npm run build
 ```
-
